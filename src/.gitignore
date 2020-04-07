@@ -1,0 +1,7 @@
+# result of protobuf compilation
+addressbook.pb.h
+addressbook.pb.cc
+
+#result of g++ compilation
+add_person_cpp
+list_people_cpp
